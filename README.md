@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/49343277/117004110-b32b1280-acb3-11eb-96b0-2d9e3380dd52.png)
+<img src= "https://user-images.githubusercontent.com/49343277/117004110-b32b1280-acb3-11eb-96b0-2d9e3380dd52.png" width = "100)
 
 
 # Fetal Health 
