@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/49343277/117004110-b32b1280-acb3-11eb-96b0-2d9e3380dd52.png)
+
+
 # Fetal Health 
 
 Obstetricians have one of the most important jobs in this world, to help bring babies into the world. However, working in the health industry has many downsides, especially when a health care specialist has to deliver bad news, for example to expecting parents. It may occur that a baby is diseased before it is even born. Experts found ways to identify the health of a fetus based on cardiography. The heart rate of a baby can reveal the health of a fetus. The dataset consists of 2126 observations, extracted directly from cardiography measuring the heartbeat of a baby. There are 21 input variables and one response variable. The response variable is the health of the fetus and classified into three categories: 1- normal, 2- suspect, 3- pathologic. 
